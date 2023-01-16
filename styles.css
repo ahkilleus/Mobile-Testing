@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    background-color: #333333;
+    height: 100vh;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    border: 3px solid salmon;
+}
+
+
